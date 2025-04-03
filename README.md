@@ -4,7 +4,7 @@ A Pokémon-themed Valentine meme card generator. Built during a 24-hour hackatho
 
 ## 📖 Description
 
-**Valentine, I Choose You!** is a fun web app that matches you with a random Pokémon with a themed messages. It pulls Pokémon images from the [PokeAPI](https://pokeapi.co/).
+**Valentine, I Choose You!** is a fun web app that matches you with a random Pokémon with themed messages. It pulls Pokémon images from the [PokeAPI](https://pokeapi.co/).
 
 ## 🖥️ Live Demo
 [View Live Site](https://pokemon-valentine.vercel.app/)  
@@ -17,6 +17,7 @@ To run this project locally clone the repository:
 git clone https://github.com/jiinp2/pokemon-valentine.git
 cd pokemon-valentine
 ```
+Then open the index.html file manually, or use Live Server in VSCode to launch it in your browser.
 
 ## ⚙️ Tech Stack
 
