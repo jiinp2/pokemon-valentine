@@ -9,6 +9,9 @@ A Pokémon-themed Valentine meme card generator. Built during a 24-hour hackatho
 ## 🖥️ Live Demo
 [View Live Site](https://pokemon-valentine.vercel.app/)  
 
+## 📸 Screenshots
+![pokemon](https://github.com/user-attachments/assets/4c5c39ee-40f7-4329-949f-324abeea0101)
+
 ## 🚀 Getting Started
 
 To run this project locally clone the repository:
